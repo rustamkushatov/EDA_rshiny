@@ -1,0 +1,13 @@
+name: ExploratoryDataAnalysis
+title: ExploratoryDataAnalysis
+username:
+account: rustam2000
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 6380428
+bundleId: 5948777
+url: https://rustam2000.shinyapps.io/ExploratoryDataAnalysis/
+when: 1653597285.16078
+lastSyncTime: 1653597285.16078
+asMultiple: FALSE
+asStatic: FALSE
